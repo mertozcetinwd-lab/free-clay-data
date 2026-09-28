@@ -1,0 +1,582 @@
+{
+ "release": "Overture 2026-09-23.0",
+ "rows": 15482799,
+ "dropped_no_state": 21042,
+ "states": {
+  "AK": {
+   "rows": 37284,
+   "files": [
+    {
+     "path": "AK/ak-places-1.csv.gz",
+     "bytes": 2933077,
+     "rows": 37284
+    }
+   ]
+  },
+  "AL": {
+   "rows": 229723,
+   "files": [
+    {
+     "path": "AL/al-places-1.csv.gz",
+     "bytes": 18103191,
+     "rows": 229723
+    }
+   ]
+  },
+  "AR": {
+   "rows": 144674,
+   "files": [
+    {
+     "path": "AR/ar-places-1.csv.gz",
+     "bytes": 11351659,
+     "rows": 144674
+    }
+   ]
+  },
+  "AZ": {
+   "rows": 312293,
+   "files": [
+    {
+     "path": "AZ/az-places-1.csv.gz",
+     "bytes": 24685325,
+     "rows": 312293
+    }
+   ]
+  },
+  "CA": {
+   "rows": 1724766,
+   "files": [
+    {
+     "path": "CA/ca-places-1.csv.gz",
+     "bytes": 40004261,
+     "rows": 515457
+    },
+    {
+     "path": "CA/ca-places-2.csv.gz",
+     "bytes": 40014075,
+     "rows": 514306
+    },
+    {
+     "path": "CA/ca-places-3.csv.gz",
+     "bytes": 40002111,
+     "rows": 514526
+    },
+    {
+     "path": "CA/ca-places-4.csv.gz",
+     "bytes": 13997480,
+     "rows": 180477
+    }
+   ]
+  },
+  "CO": {
+   "rows": 317708,
+   "files": [
+    {
+     "path": "CO/co-places-1.csv.gz",
+     "bytes": 25068757,
+     "rows": 317708
+    }
+   ]
+  },
+  "CT": {
+   "rows": 174306,
+   "files": [
+    {
+     "path": "CT/ct-places-1.csv.gz",
+     "bytes": 13612049,
+     "rows": 174306
+    }
+   ]
+  },
+  "DC": {
+   "rows": 43553,
+   "files": [
+    {
+     "path": "DC/dc-places-1.csv.gz",
+     "bytes": 3295684,
+     "rows": 43553
+    }
+   ]
+  },
+  "DE": {
+   "rows": 47522,
+   "files": [
+    {
+     "path": "DE/de-places-1.csv.gz",
+     "bytes": 3741437,
+     "rows": 47522
+    }
+   ]
+  },
+  "FL": {
+   "rows": 1178884,
+   "files": [
+    {
+     "path": "FL/fl-places-1.csv.gz",
+     "bytes": 40004894,
+     "rows": 507720
+    },
+    {
+     "path": "FL/fl-places-2.csv.gz",
+     "bytes": 40006301,
+     "rows": 507894
+    },
+    {
+     "path": "FL/fl-places-3.csv.gz",
+     "bytes": 12906938,
+     "rows": 163270
+    }
+   ]
+  },
+  "GA": {
+   "rows": 515813,
+   "files": [
+    {
+     "path": "GA/ga-places-1.csv.gz",
+     "bytes": 40018092,
+     "rows": 504576
+    },
+    {
+     "path": "GA/ga-places-2.csv.gz",
+     "bytes": 894027,
+     "rows": 11237
+    }
+   ]
+  },
+  "HI": {
+   "rows": 67240,
+   "files": [
+    {
+     "path": "HI/hi-places-1.csv.gz",
+     "bytes": 5174977,
+     "rows": 67240
+    }
+   ]
+  },
+  "IA": {
+   "rows": 159092,
+   "files": [
+    {
+     "path": "IA/ia-places-1.csv.gz",
+     "bytes": 12437876,
+     "rows": 159092
+    }
+   ]
+  },
+  "ID": {
+   "rows": 93532,
+   "files": [
+    {
+     "path": "ID/id-places-1.csv.gz",
+     "bytes": 7354626,
+     "rows": 93532
+    }
+   ]
+  },
+  "IL": {
+   "rows": 589382,
+   "files": [
+    {
+     "path": "IL/il-places-1.csv.gz",
+     "bytes": 40010005,
+     "rows": 512230
+    },
+    {
+     "path": "IL/il-places-2.csv.gz",
+     "bytes": 6049068,
+     "rows": 77152
+    }
+   ]
+  },
+  "IN": {
+   "rows": 300564,
+   "files": [
+    {
+     "path": "IN/in-places-1.csv.gz",
+     "bytes": 23832723,
+     "rows": 300564
+    }
+   ]
+  },
+  "KS": {
+   "rows": 143641,
+   "files": [
+    {
+     "path": "KS/ks-places-1.csv.gz",
+     "bytes": 11224343,
+     "rows": 143641
+    }
+   ]
+  },
+  "KY": {
+   "rows": 203621,
+   "files": [
+    {
+     "path": "KY/ky-places-1.csv.gz",
+     "bytes": 16075597,
+     "rows": 203621
+    }
+   ]
+  },
+  "LA": {
+   "rows": 218213,
+   "files": [
+    {
+     "path": "LA/la-places-1.csv.gz",
+     "bytes": 17197985,
+     "rows": 218213
+    }
+   ]
+  },
+  "MA": {
+   "rows": 330629,
+   "files": [
+    {
+     "path": "MA/ma-places-1.csv.gz",
+     "bytes": 25509221,
+     "rows": 330629
+    }
+   ]
+  },
+  "MD": {
+   "rows": 264401,
+   "files": [
+    {
+     "path": "MD/md-places-1.csv.gz",
+     "bytes": 20955993,
+     "rows": 264401
+    }
+   ]
+  },
+  "ME": {
+   "rows": 80268,
+   "files": [
+    {
+     "path": "ME/me-places-1.csv.gz",
+     "bytes": 6193848,
+     "rows": 80268
+    }
+   ]
+  },
+  "MI": {
+   "rows": 450813,
+   "files": [
+    {
+     "path": "MI/mi-places-1.csv.gz",
+     "bytes": 35404872,
+     "rows": 450813
+    }
+   ]
+  },
+  "MN": {
+   "rows": 263182,
+   "files": [
+    {
+     "path": "MN/mn-places-1.csv.gz",
+     "bytes": 20775157,
+     "rows": 263182
+    }
+   ]
+  },
+  "MO": {
+   "rows": 292010,
+   "files": [
+    {
+     "path": "MO/mo-places-1.csv.gz",
+     "bytes": 23174918,
+     "rows": 292010
+    }
+   ]
+  },
+  "MS": {
+   "rows": 131683,
+   "files": [
+    {
+     "path": "MS/ms-places-1.csv.gz",
+     "bytes": 10276961,
+     "rows": 131683
+    }
+   ]
+  },
+  "MT": {
+   "rows": 66077,
+   "files": [
+    {
+     "path": "MT/mt-places-1.csv.gz",
+     "bytes": 5159402,
+     "rows": 66077
+    }
+   ]
+  },
+  "NC": {
+   "rows": 507082,
+   "files": [
+    {
+     "path": "NC/nc-places-1.csv.gz",
+     "bytes": 40008714,
+     "rows": 503341
+    },
+    {
+     "path": "NC/nc-places-2.csv.gz",
+     "bytes": 298041,
+     "rows": 3741
+    }
+   ]
+  },
+  "ND": {
+   "rows": 41966,
+   "files": [
+    {
+     "path": "ND/nd-places-1.csv.gz",
+     "bytes": 3259307,
+     "rows": 41966
+    }
+   ]
+  },
+  "NE": {
+   "rows": 94948,
+   "files": [
+    {
+     "path": "NE/ne-places-1.csv.gz",
+     "bytes": 7443239,
+     "rows": 94948
+    }
+   ]
+  },
+  "NH": {
+   "rows": 75808,
+   "files": [
+    {
+     "path": "NH/nh-places-1.csv.gz",
+     "bytes": 5903343,
+     "rows": 75808
+    }
+   ]
+  },
+  "NJ": {
+   "rows": 402980,
+   "files": [
+    {
+     "path": "NJ/nj-places-1.csv.gz",
+     "bytes": 31364970,
+     "rows": 402980
+    }
+   ]
+  },
+  "NM": {
+   "rows": 91791,
+   "files": [
+    {
+     "path": "NM/nm-places-1.csv.gz",
+     "bytes": 7180177,
+     "rows": 91791
+    }
+   ]
+  },
+  "NV": {
+   "rows": 143935,
+   "files": [
+    {
+     "path": "NV/nv-places-1.csv.gz",
+     "bytes": 11242122,
+     "rows": 143935
+    }
+   ]
+  },
+  "NY": {
+   "rows": 876440,
+   "files": [
+    {
+     "path": "NY/ny-places-1.csv.gz",
+     "bytes": 40003064,
+     "rows": 519416
+    },
+    {
+     "path": "NY/ny-places-2.csv.gz",
+     "bytes": 27681015,
+     "rows": 357024
+    }
+   ]
+  },
+  "OH": {
+   "rows": 519609,
+   "files": [
+    {
+     "path": "OH/oh-places-1.csv.gz",
+     "bytes": 40001200,
+     "rows": 506525
+    },
+    {
+     "path": "OH/oh-places-2.csv.gz",
+     "bytes": 1032246,
+     "rows": 13084
+    }
+   ]
+  },
+  "OK": {
+   "rows": 196321,
+   "files": [
+    {
+     "path": "OK/ok-places-1.csv.gz",
+     "bytes": 15337208,
+     "rows": 196321
+    }
+   ]
+  },
+  "OR": {
+   "rows": 211347,
+   "files": [
+    {
+     "path": "OR/or-places-1.csv.gz",
+     "bytes": 16801639,
+     "rows": 211347
+    }
+   ]
+  },
+  "PA": {
+   "rows": 575569,
+   "files": [
+    {
+     "path": "PA/pa-places-1.csv.gz",
+     "bytes": 40010339,
+     "rows": 502972
+    },
+    {
+     "path": "PA/pa-places-2.csv.gz",
+     "bytes": 5788174,
+     "rows": 72597
+    }
+   ]
+  },
+  "RI": {
+   "rows": 52502,
+   "files": [
+    {
+     "path": "RI/ri-places-1.csv.gz",
+     "bytes": 4074414,
+     "rows": 52502
+    }
+   ]
+  },
+  "SC": {
+   "rows": 251990,
+   "files": [
+    {
+     "path": "SC/sc-places-1.csv.gz",
+     "bytes": 19943296,
+     "rows": 251990
+    }
+   ]
+  },
+  "SD": {
+   "rows": 48582,
+   "files": [
+    {
+     "path": "SD/sd-places-1.csv.gz",
+     "bytes": 3793147,
+     "rows": 48582
+    }
+   ]
+  },
+  "TN": {
+   "rows": 328420,
+   "files": [
+    {
+     "path": "TN/tn-places-1.csv.gz",
+     "bytes": 25975163,
+     "rows": 328420
+    }
+   ]
+  },
+  "TX": {
+   "rows": 1374878,
+   "files": [
+    {
+     "path": "TX/tx-places-1.csv.gz",
+     "bytes": 40016388,
+     "rows": 504370
+    },
+    {
+     "path": "TX/tx-places-2.csv.gz",
+     "bytes": 40006891,
+     "rows": 503891
+    },
+    {
+     "path": "TX/tx-places-3.csv.gz",
+     "bytes": 29126899,
+     "rows": 366617
+    }
+   ]
+  },
+  "UT": {
+   "rows": 146426,
+   "files": [
+    {
+     "path": "UT/ut-places-1.csv.gz",
+     "bytes": 11499453,
+     "rows": 146426
+    }
+   ]
+  },
+  "VA": {
+   "rows": 383646,
+   "files": [
+    {
+     "path": "VA/va-places-1.csv.gz",
+     "bytes": 30343308,
+     "rows": 383646
+    }
+   ]
+  },
+  "VT": {
+   "rows": 38456,
+   "files": [
+    {
+     "path": "VT/vt-places-1.csv.gz",
+     "bytes": 2985327,
+     "rows": 38456
+    }
+   ]
+  },
+  "WA": {
+   "rows": 337402,
+   "files": [
+    {
+     "path": "WA/wa-places-1.csv.gz",
+     "bytes": 26628055,
+     "rows": 337402
+    }
+   ]
+  },
+  "WI": {
+   "rows": 290142,
+   "files": [
+    {
+     "path": "WI/wi-places-1.csv.gz",
+     "bytes": 22908522,
+     "rows": 290142
+    }
+   ]
+  },
+  "WV": {
+   "rows": 74425,
+   "files": [
+    {
+     "path": "WV/wv-places-1.csv.gz",
+     "bytes": 5791205,
+     "rows": 74425
+    }
+   ]
+  },
+  "WY": {
+   "rows": 37260,
+   "files": [
+    {
+     "path": "WY/wy-places-1.csv.gz",
+     "bytes": 2889188,
+     "rows": 37260
+    }
+   ]
+  }
+ }
+}
