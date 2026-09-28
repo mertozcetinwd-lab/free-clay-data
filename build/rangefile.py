@@ -3,7 +3,11 @@ S = requests.Session()
 class RangeFile(io.RawIOBase):
     def __init__(self, url):
         self.url = url; self.pos = 0
-        self.size = int(S.head(url, timeout=60).headers['Content-Length'])
+        for i in range(6):
+            try: self.size = int(S.head(url, timeout=60).headers['Content-Length']); break
+            except Exception:
+                if i == 5: raise
+                import time; time.sleep(2 ** i)
         self.bytes = 0
     def readable(self): return True
     def seekable(self): return True
@@ -20,6 +24,7 @@ class RangeFile(io.RawIOBase):
                 r = S.get(self.url, headers={'Range': f'bytes={self.pos}-{end}'}, timeout=300); r.raise_for_status(); break
             except Exception as e:
                 if i == 4: raise
+                import time; time.sleep(2 ** i)
         self.pos += len(r.content); self.bytes += len(r.content)
         return r.content
     def readinto(self, b):
