@@ -1,8 +1,8 @@
-# Loam open places: every US state
+# Free Clay data: every US business, free
 
 15,482,799 US businesses and places, across all 50 states and DC, with name, category, phone, website, email, address and location. Free to use, including commercially. It's built from [Overture Maps Places](https://docs.overturemaps.org/guides/places/), release `2026-09-23.0`.
 
-It's the free business database behind the Find leads page in Loam, an open-source Clay alternative. It works without Loam too: open a state in Excel, load it into a database, or search it with a script.
+It's the free business database behind the Find leads page in [Free Clay](https://github.com/mertozcetinwd-lab/free-clay), an open-source Clay alternative you run on your own Cloudflare account. It works without Loam too: open a state in Excel, load it into a database, or search it with a script.
 
 ## What's inside
 
@@ -47,9 +47,9 @@ python build/merge.py
 
 Change `REL` in both scripts for a newer Overture release.
 
-## Use it in Loam
+## Use it in Free Clay
 
-In your Loam (free-clay) folder:
+In your [free-clay](https://github.com/mertozcetinwd-lab/free-clay) folder (`npm run setup` does this for you):
 
 ```
 node dev/get-places.mjs
